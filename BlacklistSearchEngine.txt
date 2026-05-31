@@ -1,250 +1,129 @@
-# ============================================================
-# Moteurs de recherche à bloquer (hors Google)
-# Format : 0.0.0.0 domaine
-# Ajouter ce fichier dans AdAway > Sources d'hôtes > + > URL
-# ============================================================
-
-# --- Bing (Microsoft) ---
-0.0.0.0 bing.com
-0.0.0.0 www.bing.com
-
-# --- Yahoo ---
-0.0.0.0 search.yahoo.com
-0.0.0.0 search.yahoo.co.jp
-0.0.0.0 yahoo.com			# Portail + recherche (bloque aussi mail, etc. → commenter si besoin)
-0.0.0.0 www.yahoo.com
-
-# --- DuckDuckGo ---
-0.0.0.0 duckduckgo.com
-0.0.0.0 www.duckduckgo.com
-0.0.0.0 duck.com
-0.0.0.0 ddg.gg
-0.0.0.0 duckduckgo.de
-0.0.0.0 duckduckgo.co.uk
-
-# --- Baidu ---
-0.0.0.0 baidu.com
-0.0.0.0 www.baidu.com
-
-# --- Yandex ---
-0.0.0.0 yandex.com
-0.0.0.0 yandex.ru
-0.0.0.0 ya.ru
-0.0.0.0 yandex.by
-0.0.0.0 yandex.kz
-0.0.0.0 yandex.ua
-0.0.0.0 yandex.com.tr
-
-# --- Ecosia ---
-0.0.0.0 ecosia.org
-0.0.0.0 www.ecosia.org
-
-# --- Qwant ---
-0.0.0.0 qwant.com
-0.0.0.0 www.qwant.com
-0.0.0.0 qwant.fr
-
-# --- Startpage ---
-0.0.0.0 startpage.com
-0.0.0.0 www.startpage.com
-
-# --- Brave Search ---
-0.0.0.0 search.brave.com
-0.0.0.0 brave.com			# Domaine principal (optionnel)
-0.0.0.0 www.brave.com
-
-# --- Swisscows ---
-0.0.0.0 swisscows.com
-0.0.0.0 www.swisscows.com
-
-# --- Mojeek ---
-0.0.0.0 mojeek.com
-0.0.0.0 www.mojeek.com
-
-# --- Gibiru ---
-0.0.0.0 gibiru.com
-0.0.0.0 www.gibiru.com
-
-# --- MetaGer ---
-0.0.0.0 metager.org
-0.0.0.0 metager.de
-0.0.0.0 www.metager.org
-
-# --- Dogpile (métamoteur) ---
-0.0.0.0 dogpile.com
-0.0.0.0 www.dogpile.com
-
-# --- WebCrawler ---
-0.0.0.0 webcrawler.com
-0.0.0.0 www.webcrawler.com
-
-# --- Info.com ---
-0.0.0.0 info.com
-0.0.0.0 www.info.com
-
-# --- Lycos ---
-0.0.0.0 lycos.com
-0.0.0.0 www.lycos.com
-
-# --- HotBot ---
-0.0.0.0 hotbot.com
-0.0.0.0 www.hotbot.com
-
-# --- Excite ---
-0.0.0.0 excite.com
-0.0.0.0 www.excite.com
-
-# --- Yippy ---
-0.0.0.0 yippy.com
-0.0.0.0 www.yippy.com
-
-# --- Entireweb ---
-0.0.0.0 entireweb.com
-0.0.0.0 www.entireweb.com
-
-# --- AOL Search ---
-0.0.0.0 search.aol.com
-0.0.0.0 aol.com			# Optionnel (portail)
-
-# --- Ask.com ---
-0.0.0.0 ask.com
-0.0.0.0 www.ask.com
-
-# --- WolframAlpha (moteur de calcul/référence) ---
-0.0.0.0 wolframalpha.com
-0.0.0.0 www.wolframalpha.com
-
-# --- Naver (Corée) ---
-0.0.0.0 naver.com
-0.0.0.0 www.naver.com
-0.0.0.0 search.naver.com
-
-# --- Daum (Corée) ---
-0.0.0.0 daum.net
-0.0.0.0 www.daum.net
-0.0.0.0 search.daum.net
-
-# --- Seznam (Rép. tchèque) ---
-0.0.0.0 seznam.cz
-0.0.0.0 www.seznam.cz
-
-# --- Sogou (Chine) ---
-0.0.0.0 sogou.com
-0.0.0.0 www.sogou.com
-
-# --- 360 Search (Chine) ---
-0.0.0.0 so.com
-0.0.0.0 www.so.com
-
-# --- Shenma (Chine) ---
-0.0.0.0 sm.cn
-0.0.0.0 www.sm.cn
-
-# --- Youdao (Chine) ---
-0.0.0.0 youdao.com
-0.0.0.0 www.youdao.com
-
-# --- Kiddle (moteur pour enfants) ---
-0.0.0.0 kiddle.co
-0.0.0.0 www.kiddle.co
-
-# --- KidzSearch ---
-0.0.0.0 kidzsearch.com
-0.0.0.0 www.kidzsearch.com
-
-# --- SweetSearch (éducation) ---
-0.0.0.0 sweetsearch.com
-0.0.0.0 www.sweetsearch.com
-
-# --- Gigablast ---
-0.0.0.0 gigablast.com
-0.0.0.0 www.gigablast.com
-
-# --- Million Short ---
-0.0.0.0 millionshort.com
-0.0.0.0 www.millionshort.com
-
-# --- Boardreader (recherche forums) ---
-0.0.0.0 boardreader.com
-0.0.0.0 www.boardreader.com
-
-# --- Ekoru (moteur écolo) ---
-0.0.0.0 ekoru.org
-0.0.0.0 www.ekoru.org
-
-# --- OceanHero ---
-0.0.0.0 oceanhero.today
-0.0.0.0 www.oceanhero.today
-
-# --- Elliot for Water ---
-0.0.0.0 elliotforwater.com
-0.0.0.0 www.elliotforwater.com
-
-# --- Lilo (moteur français) ---
-0.0.0.0 lilo.org
-0.0.0.0 www.lilo.org
-0.0.0.0 search.lilo.org
-
-# --- Kagi (moteur payant) ---
-0.0.0.0 kagi.com
-0.0.0.0 www.kagi.com
-
-# --- Andi Search ---
-0.0.0.0 andisearch.com
-0.0.0.0 www.andisearch.com
-
-# --- You.com ---
-0.0.0.0 you.com
-0.0.0.0 www.you.com
-
-# --- Perplexity (moteur IA) ---
-0.0.0.0 perplexity.ai
-0.0.0.0 www.perplexity.ai
-
-# --- Phind (moteur IA) ---
-0.0.0.0 phind.com
-0.0.0.0 www.phind.com
-
-# --- Monster Crawler ---
-0.0.0.0 monstercrawler.com
-0.0.0.0 www.monstercrawler.com
-
-# --- MetaCrawler ---
-0.0.0.0 metacrawler.com
-0.0.0.0 www.metacrawler.com
-
-# --- Mamma ---
-0.0.0.0 mamma.com
-0.0.0.0 www.mamma.com
-
-# --- Peekier ---
-0.0.0.0 peekier.com
-0.0.0.0 www.peekier.com
-
-# --- Oscobo ---
-0.0.0.0 oscobo.com
-0.0.0.0 www.oscobo.com
-
-# --- Lukol ---
-0.0.0.0 lukol.com
-0.0.0.0 www.lukol.com
-
-# --- Givero (fermé mais domaine actif) ---
-0.0.0.0 givero.com
-0.0.0.0 www.givero.com
-
-# --- Searchall ---
-0.0.0.0 searchall.net
-0.0.0.0 www.searchall.net
-
-# --- Qrobe ---
-0.0.0.0 qrobe.it
-0.0.0.0 www.qrobe.it
-
-# --- Entireweb ---
-0.0.0.0 entireweb.com
-0.0.0.0 www.entireweb.com
-
-# --- Carrot2 (clusterisation) ---
-0.0.0.0 search.carrot2.org
-0.0.0.0 carrot2.org
+bing.com
+www.bing.com
+search.yahoo.com
+search.yahoo.co.jp
+yahoo.com
+www.yahoo.com
+duckduckgo.com
+www.duckduckgo.com
+duck.com
+ddg.gg
+duckduckgo.de
+duckduckgo.co.uk
+baidu.com
+www.baidu.com
+yandex.com
+yandex.ru
+ya.ru
+yandex.by
+yandex.kz
+yandex.ua
+yandex.com.tr
+ecosia.org
+www.ecosia.org
+qwant.com
+www.qwant.com
+qwant.fr
+startpage.com
+www.startpage.com
+search.brave.com
+brave.com
+www.brave.com
+swisscows.com
+www.swisscows.com
+mojeek.com
+www.mojeek.com
+gibiru.com
+www.gibiru.com
+metager.org
+metager.de
+www.metager.org
+dogpile.com
+www.dogpile.com
+webcrawler.com
+www.webcrawler.com
+info.com
+www.info.com
+lycos.com
+www.lycos.com
+hotbot.com
+www.hotbot.com
+excite.com
+www.excite.com
+yippy.com
+www.yippy.com
+entireweb.com
+www.entireweb.com
+search.aol.com
+aol.com
+ask.com
+www.ask.com
+wolframalpha.com
+www.wolframalpha.com
+naver.com
+www.naver.com
+search.naver.com
+daum.net
+www.daum.net
+search.daum.net
+seznam.cz
+www.seznam.cz
+sogou.com
+www.sogou.com
+so.com
+www.so.com
+sm.cn
+www.sm.cn
+youdao.com
+www.youdao.com
+kiddle.co
+www.kiddle.co
+kidzsearch.com
+www.kidzsearch.com
+sweetsearch.com
+www.sweetsearch.com
+gigablast.com
+www.gigablast.com
+millionshort.com
+www.millionshort.com
+boardreader.com
+www.boardreader.com
+ekoru.org
+www.ekoru.org
+oceanhero.today
+www.oceanhero.today
+elliotforwater.com
+www.elliotforwater.com
+lilo.org
+www.lilo.org
+search.lilo.org
+kagi.com
+www.kagi.com
+andisearch.com
+www.andisearch.com
+you.com
+www.you.com
+perplexity.ai
+www.perplexity.ai
+phind.com
+www.phind.com
+monstercrawler.com
+www.monstercrawler.com
+metacrawler.com
+www.metacrawler.com
+mamma.com
+www.mamma.com
+peekier.com
+www.peekier.com
+oscobo.com
+www.oscobo.com
+lukol.com
+www.lukol.com
+givero.com
+www.givero.com
+searchall.net
+www.searchall.net
+qrobe.it
+www.qrobe.it
+search.carrot2.org
+carrot2.org
